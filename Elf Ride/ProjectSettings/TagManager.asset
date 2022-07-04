@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Coin
+  - Enemy
+  - Obstacle
+  - Door
+  - KillZone
+  - Death
+  - MovingPlatform
+  - Checkpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2443019415
+    locked: 0
+  - name: Ground
+    uniqueID: 3070738687
+    locked: 0
+  - name: Enemy
+    uniqueID: 471047501
+    locked: 0
+  - name: Coin
+    uniqueID: 2939317057
+    locked: 0
+  - name: Heart
+    uniqueID: 1501720539
+    locked: 0
+  - name: Player
+    uniqueID: 936406241
+    locked: 0
